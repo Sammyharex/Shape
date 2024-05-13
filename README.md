@@ -1,1 +1,6 @@
-it's a program that calculates area of shapes and volume of the three dimensional shapes among the shapes
+# GROUP 7
+1.AREGBESOLA SAMSON AYOBAMI **UJ/2020/NS/0584**
+2.ONOJA GODWIN JAMES **UJ/2020/NS/0531**
+3.OLABISI GIDEON OPEYEMI **UJ/2020/NS/0536**
+4.ABRAHAM RIMAH CHUGA **UJ/2020/NS/0546**
+5.AUGUSTINE GABRIEL IDANKPO **UJ/2020/NS/0571**
